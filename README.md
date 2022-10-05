@@ -10,7 +10,9 @@ With modular payloads, this platform may be used for different purposes, such as
 - Cargo delivery
 - etc.
 
-For instance, AirRepeater (`Airvan` + `radio repeater`), can be used to establish long range radio communications in events of environmental and human caused disaster.
+For instance, AirRepeater (Airvan + Radio Repeater) can be used to establish long range radio communications in the aftermath of environmental and human caused disaster.
+
+![AirRepeater System](https://i.imgur.com/OfHRdmn.png)
 
 Here is a [simulation video](https://youtu.be/J7g-IRBaNW4) of an example mission.
 
