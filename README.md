@@ -1,4 +1,6 @@
-# Airvan
+# Overview
+
+[Discord](https://discord.gg/efYFgJuz) | [Simulation Demo](https://youtu.be/J7g-IRBaNW4) | [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE/edit?usp=sharing)
 
 Airvan is an inexpensive and mass reproducible open source, open hardware general autonomous aeronautical platform easily accessible and usable by the average person.
 
@@ -14,7 +16,7 @@ For instance, AirRepeater (Airvan + Radio Repeater) can be used to establish lon
 
 ![AirRepeater System](https://i.imgur.com/OfHRdmn.png)
 
-Here is a [simulation video](https://youtu.be/J7g-IRBaNW4) of an example mission.
+Here is a [video](https://youtu.be/J7g-IRBaNW4) of an example mission simulation.
 
 ## Fundraising
 
