@@ -1,8 +1,6 @@
-![](https://i.imgur.com/IiHzV5i.png)
-
 # Airvan
 
-Airvan is an affordable open source, open hardware generic aeronautical platform. With modular payloads, this platform may be used for different purposes, such as:
+Airvan is an affordable open source, open hardware general aeronautical platform. With modular payloads, this platform may be used for different purposes, such as:
 
 - Radio communication relay
 - Aerial photography
@@ -18,7 +16,6 @@ Coming soon.
 
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
-
 
 ## Contributors
 
