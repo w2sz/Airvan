@@ -8,6 +8,8 @@ Airvan is an affordable open source, open hardware general aeronautical platform
 - Courier
 - etc.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J7g-IRBaNW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Fundraising
 
 Coming soon.
@@ -16,8 +18,6 @@ Coming soon.
 
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J7g-IRBaNW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contributors
 
