@@ -36,7 +36,7 @@ The project is in the active early design stage now. Specifications are subject 
 
 ## Fundraising
 
-Coming soon.
+Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
 
 ## Progress
 
