@@ -18,6 +18,15 @@ For instance, AirRepeater (Airvan + Radio Repeater) can be used to establish lon
 
 Here is a [video](https://youtu.be/J7g-IRBaNW4) of an example mission simulation.
 
+## Specification
+
+The project is in the active early design stage now. Specifications are subject to change.
+
+- Maximum flight time: 120 minutes
+- Max payload weight: 2.5 kilograms
+- Wing span: 2.5 meters
+- Maximum dimension when folded: 1.3 meters
+
 ## Fundraising
 
 Coming soon.
