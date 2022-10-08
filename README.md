@@ -34,6 +34,11 @@ The project is in the active early design stage now. Specifications are subject 
 - Repeater coverage: 50+ miles in radius, open space
 - Transmitting power: 5 watts
 
+## Technical Approach
+
+- Foam boards for main body with carbon fiber for structural strength.
+- ArduPilot + Pixhawk + Mission Planner for autonomous feature.
+
 ## Fundraising
 
 Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
