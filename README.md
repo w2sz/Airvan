@@ -48,6 +48,30 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
 
+## Projected Timeline
+
+### Fall 2022
+
+- By late September
+  - Project outline
+  - Team formation
+  - Budget Estimation
+- By late October
+  - Funding acquisition
+  - System design
+  - Purchase order
+- By late November
+  - Assemble
+  - Lab testing
+  - System integration
+- By late December
+  - Field testing
+  - Prototype Delivery
+
+### Spring 2023
+
+coming soon.
+
 ## Contributors
 
 This project is a collaborative outcome of three clubs at Rensselaer Polytechnic Institute.
