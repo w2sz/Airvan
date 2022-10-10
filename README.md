@@ -70,7 +70,7 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 
 ### Spring 2023
 
-coming soon.
+Optimize the prototype for extended staying time and range. Details coming in December 2022.
 
 ## Contributors
 
