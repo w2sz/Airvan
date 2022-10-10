@@ -1,6 +1,6 @@
 # Overview
 
-[Discord](https://discord.gg/efYFgJuz) \| [Simulation Demo](https://youtu.be/J7g-IRBaNW4) \| [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE/edit?usp=sharing)
+[Discord](https://discord.gg/efYFgJuz) \| [Simulation Demo](https://youtu.be/J7g-IRBaNW4) \| [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE/edit?usp=sharing) \| [Meeting Minutes](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl?usp=sharing)
 
 Airvan is an inexpensive and mass reproducible open source, open hardware general autonomous aeronautical platform easily accessible and usable by the average person.
 
