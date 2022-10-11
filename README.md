@@ -76,9 +76,9 @@ Optimize the prototype for extended staying time and range. Details coming in De
 
 This project is a collaborative outcome of three clubs at Rensselaer Polytechnic Institute.
 
-- W2SZ Amateur Radio Club
-- RC Drone Club
-- Embedded Hardware Club
+- W2SZ Amateur Radio Club: Onboard radio systems;
+- RC Drone Club: Aircraft design and construction;
+- Embedded Hardware Club: Repeater system and avionics.
 
 ## License
 
