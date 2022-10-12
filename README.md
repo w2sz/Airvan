@@ -12,7 +12,7 @@ With modular payloads, this platform may be used for different purposes, such as
 - Cargo delivery
 - etc.
 
-For instance, AirRepeater (Airvan + Radio Repeater) can be used to establish long range radio communications in the aftermath of environmental and human caused disaster.
+For instance, AirRepeater (Airvan + Radio Repeater) can be used to establish long range radio communications in the aftermath of environmental and human caused disaster. AirLens (Airvan + Camera + Computer Vision) can perform search and rescue with computer vision technology to spot creatures/objects in motion at a distance.
 
 ![AirRepeater System](https://i.imgur.com/OfHRdmn.png)
 
