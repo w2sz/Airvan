@@ -49,6 +49,7 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 
 ## Progress
 
+- 10/12/2022 Team recruitment, cost analysis and fundraising.
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
 
