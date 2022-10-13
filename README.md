@@ -71,7 +71,7 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
   - System integration
 - By late December
   - Field testing
-  - Prototype Delivery
+  - Prototype delivery
 
 ### Spring 2023
 
