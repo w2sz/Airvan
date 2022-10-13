@@ -83,15 +83,15 @@ Optimize the prototype for extended staying time and range. Details coming in De
 
 This project is a collaborative outcome of three clubs at Rensselaer Polytechnic Institute.
 
-- [**W2SZ Amateur Radio Club**](https://w2sz.union.rpi.edu/index.php) - Onboard radio systems;
-- [**RPI Drone Club**](https://rpidrone.club/) - Aircraft design and construction;
-- [**Embedded Hardware Club**](http://www.rpiehc.org/) - Repeater system and avionics.
+- [W2SZ Amateur Radio Club](https://w2sz.union.rpi.edu/index.php) - Onboard radio systems;
+- [RPI Drone Club](https://rpidrone.club/) - Aircraft design and construction;
+- [Embedded Hardware Club](http://www.rpiehc.org/) - Repeater system and avionics.
 
 ### Individuals
 
-- [**Zhemin Zhang a.k.a. Hisen**](https://www.qrz.com/db/KD2TAI) - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
-- [**Gregory Kotlyarsky**]() - Chief engineer of aircraft system. Treasurer of RPI Drone Club.
-- [**Fuller Hayden**]() - Chief engineer of electronics system.
+- **Zhemin Zhang a.k.a. Hisen** ( [GitHub](https://github.com/HisenZhang) | [QRZ](https://www.qrz.com/db/KD2TAI) | [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z?usp=sharing) ) - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
+- **Gregory Kotlyarsky** - Chief engineer of aircraft system. Treasurer of RPI Drone Club.
+- **Fuller Hayden** - Chief engineer of electronics system.
 
 ## License
 
