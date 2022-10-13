@@ -57,11 +57,11 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 
 ### Fall 2022
 
-- By mid October (On time)
+- By mid October [On time]
   - Project outline
   - Team formation
   - Budget Estimation
-- By early November (In progress)
+- By early November **[In progress]**
   - Funding acquisition
   - System design
   - Purchase order
