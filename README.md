@@ -92,6 +92,12 @@ This project is a collaborative outcome of three clubs at Rensselaer Polytechnic
 - **Gregory Kotlyarsky** - Chief engineer of aircraft system. Treasurer of RPI Drone Club.
 - **Fuller Hayden** - Chief engineer of electronics system.
 
-## License
+## Legal Information
 
-This project uses MIT License.
+### FAA Regulation
+
+This project is [Title 14 CFR Part 107](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107) compliant, referred to as the Small UAS Rule.
+
+### License
+
+This project adopts MIT License.
