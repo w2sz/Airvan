@@ -29,13 +29,12 @@ The project is in the active early design stage now. Specifications are subject 
 ### General Airvan
 
 - Maximum flight time: 120 minutes
-- Max payload weight: 2.5 kilograms
-- Wing span: 2.5 meters
-- Maximum dimension when folded: 1.3 meters
+- Maximum payload weight: 2.5 kg (5-1/2 lbs)
+- Maximum dimension when folded: 1.3 m (4-1/4 ft) 
 
 ### AirRepeater
 
-- Repeater coverage: 50+ miles in radius, open space
+- Repeater coverage: 80 km (50 mi) in radius, open space
 - Transmitting power: 5 watts
 
 ## Technical Approach
