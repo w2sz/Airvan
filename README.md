@@ -1,6 +1,6 @@
 # Overview
 
-[Discord](https://discord.gg/8mKERb27Zd) \| [Simulation Demo](https://youtu.be/J7g-IRBaNW4) \| [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE/edit?usp=sharing) \| [Meeting Minutes](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl?usp=sharing)
+[Home](.) \| [Documentation](doc) \| [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE/edit?usp=sharing) \| [Meeting Minutes](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl?usp=sharing) \| [Simulation Demo](https://youtu.be/J7g-IRBaNW4) \| [Discord](https://discord.gg/8mKERb27Zd)
 
 Airvan is an inexpensive and mass reproducible open source, open hardware general autonomous aeronautical platform easily accessible and usable by the average person.
 
@@ -29,13 +29,12 @@ The project is in the active early design stage now. Specifications are subject 
 ### General Airvan
 
 - Maximum flight time: 120 minutes
-- Max payload weight: 2.5 kilograms
-- Wing span: 2.5 meters
-- Maximum dimension when folded: 1.3 meters
+- Maximum payload weight: 2.5 kg (5-1/2 lbs)
+- Maximum dimension when folded: 1.3 m (4-1/4 ft) 
 
 ### AirRepeater
 
-- Repeater coverage: 50+ miles in radius, open space
+- Repeater coverage: 80 km (50 mi) in radius, open space
 - Transmitting power: 5 watts
 
 ## Technical Approach
@@ -54,7 +53,7 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
 
-## Projected Timeline
+## Timeline
 
 ### Fall 2022
 
@@ -90,10 +89,16 @@ This project is a collaborative outcome of three clubs at Rensselaer Polytechnic
 
 ### Individuals
 
-- **Zhemin Zhang a.k.a. Hisen** ( [GitHub](https://github.com/HisenZhang) \| [QRZ](https://www.qrz.com/db/KD2TAI) \| [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z?usp=sharing) ) - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
+- **Zhemin Zhang** *a.k.a. Hisen* < [GitHub](https://github.com/HisenZhang) \| [QRZ](https://www.qrz.com/db/KD2TAI) \| [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z?usp=sharing) > - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
 - **Gregory Kotlyarsky** - Chief engineer of aircraft system. Treasurer of RPI Drone Club.
 - **Fuller Hayden** - Chief engineer of electronics system. Operation officer of RPI Embedded Hardware Club.
 
-## License
+## Legal Information
 
-This project uses MIT License.
+### FAA Regulation
+
+This project is [Title 14 CFR Part 107](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107) compliant, referred to as the Small UAS Rule.
+
+### License
+
+This project adopts MIT License.
