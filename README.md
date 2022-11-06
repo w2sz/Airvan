@@ -49,7 +49,8 @@ Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested i
 
 ## Progress
 
-- 10/12/2022 Team recruitment, cost analysis and fundraising.
+- 11/04/2022 Aircraft frame and body draft.
+- 10/12/2022 Team recruitment, cost analysis and fundraising planning.
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
 
@@ -91,7 +92,7 @@ This project is a collaborative outcome of three clubs at Rensselaer Polytechnic
 
 - **Zhemin Zhang a.k.a. Hisen** ( [GitHub](https://github.com/HisenZhang) \| [QRZ](https://www.qrz.com/db/KD2TAI) \| [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z?usp=sharing) ) - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
 - **Gregory Kotlyarsky** - Chief engineer of aircraft system. Treasurer of RPI Drone Club.
-- **Fuller Hayden** - Chief engineer of electronics system.
+- **Fuller Hayden** - Chief engineer of electronics system. Operation officer of RPI Embedded Hardware Club.
 
 ## License
 
