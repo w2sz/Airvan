@@ -30,7 +30,7 @@ The project is in the active early design stage now. Specifications are subject 
 
 - Maximum flight time: 120 minutes
 - Maximum payload weight: 2.5 kg (5-1/2 lbs)
-- Maximum dimension when folded: 1.3 m (4-1/4 ft) 
+- Maximum dimension when folded: 1.3 m (4-1/4 ft)
 
 ### AirRepeater
 
@@ -44,7 +44,11 @@ The project is in the active early design stage now. Specifications are subject 
 
 ## Fundraising
 
-Please contact Hisen Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
+Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
+
+- 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
+- 11/06/2022 $100 from Gregory Kotlyarsky
+- 11/06/2022 $100 from Zhemin Zhang
 
 ## Progress
 
