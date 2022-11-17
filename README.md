@@ -47,12 +47,13 @@ The project is in the active early design stage now. Specifications are subject 
 Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
 
 - 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
-- 11/06/2022 $100 from Gregory Kotlyarsky
-- 11/06/2022 $100 from Zhemin Zhang
+- 11/06/2022 $100 from Gregory Kotlyarsky.
+- 11/06/2022 $100 from Zhemin Zhang.
 
 ## Progress
 
-- 11/04/2022 Aircraft frame and body draft.
+- 11/16/2022 Electronic parts list created. The first batch electronics suffice the need for ground testing.
+- 11/04/2022 Aircraft frame and body draft started.
 - 10/12/2022 Team recruitment, cost analysis and fundraising planning.
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
@@ -65,10 +66,10 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
   - Project outline
   - Team formation
   - Budget Estimation
-- By early November **[In progress]**
+- By early November
   - Funding acquisition
   - System design
-  - Purchase order
+  - Purchase order **[In progress]**
 - By late November
   - Assemble
   - Lab testing
