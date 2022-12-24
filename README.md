@@ -53,6 +53,7 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 ## Progress
 
+- 12/20/2022 RPI Winter recession begins.
 - 11/16/2022 Electronic parts list created. The first batch electronics suffice the need for ground testing.
 - 11/04/2022 Aircraft frame and body draft started.
 - 10/12/2022 Team recruitment, cost analysis and fundraising planning.
@@ -67,21 +68,20 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
   - Project outline
   - Team formation
   - Budget Estimation
-- By early November
+- By mid November [On time]
   - Funding acquisition
   - System design
-  - Purchase order **[In progress]**
-- By late November
-  - Assemble
-  - Lab testing
-  - System integration
-- By late December
-  - Field testing
-  - Prototype delivery
+  - Purchase order **[Delayed]**
 
 ### Spring 2023
 
-Optimize the prototype for extended staying time and range. Details coming in December 2022.
+- By mid February
+  - Assemble
+  - Lab testing
+  - System integration
+- By mid April
+  - Field testing
+  - Prototype delivery
 
 ## Contributors
 
