@@ -75,7 +75,7 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 ### Spring 2023
 
-- By mid February
+- By mid February [In Progress]
   - Assemble
   - Lab testing
   - System integration
