@@ -89,9 +89,10 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 This project is a collaborative outcome of three clubs at Rensselaer Polytechnic Institute.
 
-- [W2SZ Amateur Radio Club](https://w2sz.union.rpi.edu/index.php) - Onboard radio systems;
+- [W2SZ Amateur Radio Club](https://w2sz.union.rpi.edu) - Radio solution;
 - [RPI Drone Club](https://rpidrone.club/) - Aircraft design and construction;
-- [Embedded Hardware Club](http://www.rpiehc.org/) - Repeater system and avionics.
+- [Design Build Fly](https://rpidbf.tumblr.com/) - Aircraft design and construction;
+- [Embedded Hardware Club](http://www.rpiehc.org/) - Avionics.
 
 ### Individuals
 
