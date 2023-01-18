@@ -53,9 +53,11 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 ## Progress
 
-- 12/20/2022 RPI Winter recession begins.
+- 01/18/2023 Computer modeling started.
+- 01/09/2023 RPI spring semester begins.
+- 12/20/2022 RPI winter recession begins.
 - 11/16/2022 Electronic parts list created. The first batch electronics suffice the need for ground testing.
-- 11/04/2022 Aircraft frame and body draft started.
+- 11/04/2022 Aircraft frame draft started.
 - 10/12/2022 Team recruitment, cost analysis and fundraising planning.
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
