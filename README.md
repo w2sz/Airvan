@@ -48,8 +48,8 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 - 11/14/2022 $2,000 budget from Rensselaer Union. Effective since June 2023. Expire on May 2024.
 - 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
-- 11/06/2022 $100 from Gregory Kotlyarsky.
-- 11/06/2022 $100 from Zhemin Zhang.
+- 11/06/2022 $100 endowment from Gregory Kotlyarsky.
+- 11/06/2022 $100 endowment from Zhemin Zhang.
 
 ## Progress
 
