@@ -54,14 +54,14 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 ## Progress
 
-- 02/07/2023 A MVP model built for further analysis. 
-- 01/30/2023 Statement of Financial Position publicly available.
+- 02/07/2023 A [MVP model](https://discord.com/channels/1026653079749275659/1029134443992076419/1072562378744533024) built for further analysis. 
+- 01/30/2023 [Statement of Financial Position](https://docs.google.com/spreadsheets/d/1VQsWMjAY_J24CsOh0vA7-vPWDp62_e3R-c3V00e8sLE/edit?usp=share_link) publicly available.
 - 01/29/2023 Material purchase.
 - 01/18/2023 Computer modeling started.
 - 01/09/2023 RPI spring semester begins.
 - 12/20/2022 RPI winter recession begins.
 - 11/16/2022 Electronic parts list created. The first batch electronics suffice the need for ground testing.
-- 11/04/2022 Aircraft frame draft started.
+- 11/04/2022 Aircraft [frame draft](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl?usp=share_link) started.
 - 10/12/2022 Team recruitment, cost analysis and fundraising planning.
 - 10/03/2022 Project specification and technical approach under discussion.
 - 09/29/2022 Project started.
