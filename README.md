@@ -76,7 +76,7 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 - By mid November [On time]
   - Funding acquisition
   - System design
-  - Purchase order **[Delayed]**
+  - Purchase order
 
 ### Spring 2023
 
