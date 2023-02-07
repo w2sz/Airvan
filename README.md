@@ -40,6 +40,7 @@ The project is in the active early design stage now. Specifications are subject 
 ## Technical Approach
 
 - Foam boards for main body with carbon fiber for structural strength.
+- Computer modeling and analysis with OpenVSP
 - ArduPilot + Pixhawk + Mission Planner for autonomous feature.
 
 ## Fundraising
