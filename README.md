@@ -72,7 +72,7 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 - By mid October [On time]
   - Project outline
   - Team formation
-  - Budget Estimation
+  - Budget estimation
 - By mid November [On time]
   - Funding acquisition
   - System design
