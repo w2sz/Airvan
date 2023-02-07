@@ -52,6 +52,8 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 - 11/06/2022 $100 endowment from Zhemin Zhang.
 
 ## Progress
+
+- 02/07/2023 A MVP model built for further analysis. 
 - 01/30/2023 Statement of Financial Position publicly available.
 - 01/29/2023 Material purchase.
 - 01/18/2023 Computer modeling started.
