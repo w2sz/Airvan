@@ -54,6 +54,7 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 
 ## Progress
 
+- 02/08/2023 [User interface](https://discord.com/channels/1026653079749275659/1029134535348211732/1072938576863563876) design (Manual, Automatic, Mixed, Remote)
 - 02/07/2023 A [MVP model](https://discord.com/channels/1026653079749275659/1029134443992076419/1072562378744533024) built for further analysis. 
 - 01/30/2023 [Statement of Financial Position](https://docs.google.com/spreadsheets/d/1VQsWMjAY_J24CsOh0vA7-vPWDp62_e3R-c3V00e8sLE/edit?usp=share_link) publicly available.
 - 01/29/2023 Material purchase.
