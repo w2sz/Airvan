@@ -74,11 +74,16 @@ The project is in the active early design stage now. Specifications are subject 
 ### Spring 2023
 
 - By mid February [In Progress]
-  - Assemble
+  - Modeling
+    - Simulation
+    - Analysis
   - Lab testing
+    - Wind tunnel testing
   - System integration
 - By mid April
+  - Assemble
   - Field testing
+    - Parameter Tuning
   - Prototype delivery
 
 ## Fundraising
