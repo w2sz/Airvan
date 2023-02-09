@@ -43,15 +43,6 @@ The project is in the active early design stage now. Specifications are subject 
 - Computer modeling and analysis with OpenVSP
 - ArduPilot + Pixhawk + Mission Planner for autonomous feature.
 
-## Fundraising
-
-Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
-
-- 11/14/2022 $2,000 budget from Rensselaer Union. Effective since June 2023. Expire on May 2024.
-- 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
-- 11/06/2022 $100 endowment from Gregory Kotlyarsky.
-- 11/06/2022 $100 endowment from Zhemin Zhang.
-
 ## Progress
 
 - 02/08/2023 [User interface](https://discord.com/channels/1026653079749275659/1029134535348211732/1072938576863563876) concept design (Manual, Automatic, Mixed, Remote)
@@ -89,6 +80,15 @@ Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are int
 - By mid April
   - Field testing
   - Prototype delivery
+
+## Fundraising
+
+Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
+
+- 11/14/2022 $2,000 budget from Rensselaer Union. Effective since June 2023. Expire on May 2024.
+- 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
+- 11/06/2022 $100 endowment from Gregory Kotlyarsky.
+- 11/06/2022 $100 endowment from Zhemin Zhang.
 
 ## Contributors
 
