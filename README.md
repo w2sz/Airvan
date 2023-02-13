@@ -47,7 +47,7 @@ The project is in the active early design stage now. Specifications are subject 
 
 - 02/08/2023 [User interface](https://discord.com/channels/1026653079749275659/1029134535348211732/1072938576863563876) concept design (Manual, Automatic, Mixed, Remote)
 - 02/07/2023 A [MVP model](https://discord.com/channels/1026653079749275659/1029134443992076419/1072562378744533024) built for further analysis.
-- 01/30/2023 [Statement of Financial Position](https://docs.google.com/spreadsheets/d/1VQsWMjAY_J24CsOh0vA7-vPWDp62_e3R-c3V00e8sLE/edit?usp=share_link) publicly available.
+- 01/30/2023 [Financial data](https://drive.google.com/drive/folders/138rb2HcaUgs6OqswoUpuqhm_u9hDs0dA) publicly available.
 - 01/29/2023 Material purchase.
 - 01/18/2023 Computer modeling started.
 - 01/09/2023 RPI spring semester begins.
@@ -89,6 +89,8 @@ The project is in the active early design stage now. Specifications are subject 
 ## Fundraising
 
 Please contact Zhemin 'Hisen' Zhang via `zhangz29 at rpi dot edu` if you are interested in sponsoring or donating to the project.
+
+Financial information release available [here](https://drive.google.com/drive/folders/138rb2HcaUgs6OqswoUpuqhm_u9hDs0dA).
 
 - 11/14/2022 $2,000 budget from Rensselaer Union. Effective since June 2023. Expire on May 2024.
 - 11/07/2022 $1,000 from Mr. Bob Cummings '69 and Mr. David Walker '71 via School of Engineering, Rensselaer Polytechnic Institute.
