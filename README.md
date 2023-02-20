@@ -45,6 +45,7 @@ The project is in the active early design stage now. Specifications are subject 
 
 ## Progress
 
+- 02/18/2023 Flight controller, sensors and software testing.
 - 02/08/2023 [User interface](https://discord.com/channels/1026653079749275659/1029134535348211732/1072938576863563876) concept design (Manual, Automatic, Mixed, Remote)
 - 02/07/2023 A [MVP model](https://discord.com/channels/1026653079749275659/1029134443992076419/1072562378744533024) built for further analysis.
 - 01/30/2023 [Financial data](https://drive.google.com/drive/folders/138rb2HcaUgs6OqswoUpuqhm_u9hDs0dA) publicly available.
