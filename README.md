@@ -45,6 +45,10 @@ The project is in the active early design stage now. Specifications are subject 
 
 ## Progress
 
+- 05/06/2023 Summer break begins.
+- 04/17/2023 Semester accounting audit.
+- 04/10/2023 Crash report and design improvement.
+- 04/03/2023 Test flight at 86' Field. Prototype #1 crashed.
 - 03/13/2023 Test flight location investigation.
 - 02/18/2023 Flight controller, sensors and software testing.
 - 02/08/2023 [User interface](https://discord.com/channels/1026653079749275659/1029134535348211732/1072938576863563876) concept design (Manual, Automatic, Mixed, Remote)
