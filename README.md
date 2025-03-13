@@ -112,7 +112,7 @@ This project is a collaborative outcome of three clubs at Rensselaer Polytechnic
 
 ### Individuals
 
-- **Jingxi Zhu** <[github](https://github.com/Zhujingxi)>
+- **Jingxi Zhu** <[GitHub](https://github.com/Zhujingxi)> - Aircraft section lead
 - **Zhemin Zhang** *a.k.a. Hisen* < [GitHub](https://github.com/HisenZhang) \| [QRZ](https://www.qrz.com/db/KD2TAI) \| [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z) > - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
 - **Gregory Kotlyarsky** *a.k.a. Greg* - Chief engineer of electromechanical system. Treasurer of RPI Drone Club.
 - **Fuller Hayden** - Chief engineer of avionic system. Operation officer of RPI Embedded Hardware Club.
