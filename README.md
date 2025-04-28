@@ -2,7 +2,7 @@
 
 [Home](.) \| [Documentation](doc) \| [Calendar](https://calendar.google.com/calendar/u/0/embed?src=7d6ff641efe0e885fa858d34da6e10fd99e1d2fd7c405e6accf23027cc922db0@group.calendar.google.com&ctz=America/New_York) \| [Meeting Minutes](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl) \| [Slides](https://docs.google.com/presentation/d/1Ww7tBK9KSm9yHedZIFGHmEW860MVFOorjmqm3pCkUfE) \| [Discord](https://discord.gg/8mKERb27Zd)
 
-Airvan is an inexpensive and mass reproducible open source, open hardware general autonomous aeronautical platform easily accessible and usable by the average person.
+Airvan is a cost-effective, scalable open-source aerial platform featuring open hardware architecture designed for general autonomous applications. This accessible aeronautical system enables widespread adoption and operation by individuals with minimal technical expertise, democratizing access to autonomous aerial technology.
 
 With modular payloads, this platform may be used for different purposes, such as:
 
@@ -20,13 +20,13 @@ Example use case:
 
 ![AirRepeater System](https://i.imgur.com/OfHRdmn.png)
 
-Here is a [video](https://youtu.be/J7g-IRBaNW4) of an example mission simulation.
+See videos of [test flight aerial view](https://youtu.be/CvpGYRIj5Zo) and [example mission simulation](https://youtu.be/J7g-IRBaNW4).
 
 ## Specification
 
 The project is in the active early design stage now. Specifications are subject to change.
 
-### General Airvan
+### General
 
 - Maximum flight time: 120 minutes
 - Maximum payload weight: 2.5 kg (5-1/2 lbs)
