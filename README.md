@@ -45,8 +45,10 @@ The project is in the active early design stage now. Specifications are subject 
 
 ## Progress
 
-- 05/06/2023 Summer break begins.
-- 04/17/2023 Semester accounting audit.
+- 04/27/2025 Prototype #2 Test flight, [Aerial View of Troy, NY](https://youtu.be/CvpGYRIj5Zo)
+- 04/22/2025 #2 fuselage done, upgrading electronics.
+- 03/01/2025 Prototype #2 wing built with custom wire cutting machine.
+- 01/01/2025 Jingxi Zhu takes the project lead
 - 04/10/2023 Crash report and design improvement.
 - 04/03/2023 Test flight at 86' Field. Prototype #1 crashed.
 - 03/13/2023 Test flight location investigation.
@@ -56,8 +58,6 @@ The project is in the active early design stage now. Specifications are subject 
 - 01/30/2023 [Financial data](https://drive.google.com/drive/folders/138rb2HcaUgs6OqswoUpuqhm_u9hDs0dA) publicly available.
 - 01/29/2023 Material purchase.
 - 01/18/2023 Computer modeling started.
-- 01/09/2023 RPI spring semester begins.
-- 12/20/2022 RPI winter recession begins.
 - 11/16/2022 Electronic parts list created. The first batch electronics suffice the need for ground testing.
 - 11/04/2022 Aircraft [frame draft](https://drive.google.com/drive/folders/1w6okqB9U94YdA9lP_eaBHEua9bieqaRl?usp=share_link) started.
 - 10/12/2022 Team recruitment, cost analysis and fundraising planning.
@@ -112,7 +112,7 @@ This project is a collaborative outcome of three clubs at Rensselaer Polytechnic
 
 ### Individuals
 
-- **Jingxi Zhu** <[GitHub](https://github.com/Zhujingxi)> - Aircraft section lead
+- **Jingxi Zhu** <[GitHub](https://github.com/Zhujingxi)> - Aircraft section lead since Spring 2025
 - **Zhemin Zhang** *a.k.a. Hisen* < [GitHub](https://github.com/HisenZhang) \| [QRZ](https://www.qrz.com/db/KD2TAI) \| [CV](https://drive.google.com/drive/folders/1yjGs06L5jsOb7V4cnr0k2sHhIgjTP67z) > - Project initiator, fundraiser. Chief engineer of radio system. President of W2SZ Amateur Radio Club, KD2TAI.
 - **Gregory Kotlyarsky** *a.k.a. Greg* - Chief engineer of electromechanical system. Treasurer of RPI Drone Club.
 - **Fuller Hayden** - Chief engineer of avionic system. Operation officer of RPI Embedded Hardware Club.
